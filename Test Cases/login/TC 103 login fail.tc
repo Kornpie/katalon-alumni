@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 103 login fail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c198e6fb-edf9-480f-98e3-a68e292df740</testCaseGuid>
+</TestCaseEntity>
